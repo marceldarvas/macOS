@@ -289,7 +289,7 @@ You could also use `~/.extra` to override settings, functions, and aliases from 
 
 Run the `osxprep.sh` script:
 
-    $ ./osxprep.sh
+    $ ./mac/osxprep.sh
 
 `osxprep.sh` will first install all updates.  If a restart is required, simply run the script again.  Once all updates are installed, `osxprep.sh` will then [Install Xcode Command Line Tools](#install-xcode-command-line-tools).
 
@@ -329,7 +329,7 @@ Some of the apps installed by the `brew.sh` script include: Chrome, Firefox, Sub
 
 Run the `brew.sh` script:
 
-    $ ./brew.sh
+    $ ./mac/brew.sh
 
 The `brew.sh` script takes awhile to complete, as some formulae need to be installed from source.
 
@@ -348,7 +348,7 @@ When setting up a new Mac, you may want to set OS X defaults geared towards deve
 
 Run the `osx.sh` script:
 
-    $ ./osx.sh
+    $ ./mac/osx.sh
 
 **For your terminal customization to take full effect, quit and re-start the terminal.**
 
