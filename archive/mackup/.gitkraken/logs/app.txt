@@ -1,0 +1,35 @@
+[2021-07-05T22:13:40.480Z] Detecting Git and Git LFS: started
+[2021-07-05T22:13:43.154Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"af947b13-5270-4d80-ab35-3b21c4f89133","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-07-05T22:13:43.158Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"af947b13-5270-4d80-ab35-3b21c4f89133","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=4
+[2021-07-05T22:13:46.971Z] Detected Git: 2.30.1
+[2021-07-05T22:13:46.981Z] Did not detect Git LFS
+[2021-07-05T22:15:04.116Z] Verify SSH key for GitHub: started.
+[2021-07-05T22:15:04.283Z] Verify SSH key for GitHub: finished. gk-log://duration?t=167
+[2021-07-05T22:15:39.665Z] Add user profile: started.
+[2021-07-05T22:15:39.702Z] Set profile setting ["gpg","gpgProgram"] to null: started.
+[2021-07-05T22:15:39.710Z] Set profile setting ["gpg","gpgProgram"] to null: finished. gk-log://duration?t=8
+[2021-07-05T22:15:39.712Z] Set profile setting ["gpg","userSigningKey"] to null: started.
+[2021-07-05T22:15:39.713Z] Set profile setting ["gpg","userSigningKey"] to null: finished. gk-log://duration?t=1
+[2021-07-05T22:15:39.713Z] Set profile setting ["gpg","commitGpgSign"] to false: started.
+[2021-07-05T22:15:39.714Z] Set profile setting ["gpg","commitGpgSign"] to false: finished. gk-log://duration?t=1
+[2021-07-05T22:15:39.716Z] Set profile setting ["gpg","tagForceSignAnnotated"] to false: started.
+[2021-07-05T22:15:39.717Z] Set profile setting ["gpg","tagForceSignAnnotated"] to false: finished. gk-log://duration?t=1
+[2021-07-05T22:15:39.718Z] Add user profile: finished. gk-log://duration?t=53
+[2021-07-05T22:15:54.351Z] Open repository /Users/marcel/Development/Homelab/unifi/: started.
+[2021-07-05T22:15:58.452Z] Open repository: finished. gk-log://duration?t=4101
+[2021-07-05T22:15:58.623Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"unifi","repoPath":"/Users/marcel/Development/Homelab/unifi/"},{"id":"af947b13-5270-4d80-ab35-3b21c4f89133","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-07-05T22:15:58.627Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"unifi","repoPath":"/Users/marcel/Development/Homelab/unifi/"},{"id":"af947b13-5270-4d80-ab35-3b21c4f89133","type":"RELEASE_NOTES"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=4
+[2021-07-05T22:16:28.358Z] Set profile setting ["editor","fontFamily"] to "Monaco": started.
+[2021-07-05T22:16:28.362Z] Set profile setting ["editor","fontFamily"] to "Monaco": finished. gk-log://duration?t=4
+[2021-07-05T22:16:36.450Z] Add user profile: started.
+[2021-07-05T22:16:36.499Z] Add user profile: finished. gk-log://duration?t=49
+[2021-07-05T22:17:06.950Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"unifi","repoPath":"/Users/marcel/Development/Homelab/unifi/"},{"id":"af947b13-5270-4d80-ab35-3b21c4f89133","type":"RELEASE_NOTES"}],"selectedTabId":"af947b13-5270-4d80-ab35-3b21c4f89133"}: started.
+[2021-07-05T22:17:06.953Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"unifi","repoPath":"/Users/marcel/Development/Homelab/unifi/"},{"id":"af947b13-5270-4d80-ab35-3b21c4f89133","type":"RELEASE_NOTES"}],"selectedTabId":"af947b13-5270-4d80-ab35-3b21c4f89133"}: finished. gk-log://duration?t=3
+[2021-07-05T22:17:07.780Z] Open repository /Users/marcel/Development/Homelab/unifi/: started.
+[2021-07-05T22:17:08.102Z] Open repository: finished. gk-log://duration?t=322
+[2021-07-05T22:17:08.110Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"unifi","repoPath":"/Users/marcel/Development/Homelab/unifi/"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: started.
+[2021-07-05T22:17:08.113Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"unifi","repoPath":"/Users/marcel/Development/Homelab/unifi/"}],"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3"}: finished. gk-log://duration?t=3
+[2021-07-05T22:17:24.450Z] Set profile setting ["issues","github","filtersByRemoteName","boostchicken/udm-utilities"] to [{"id":"f22af242-a058-43d6-aa36-41048fc2b7ae","text":"state:open","name":"All Open Issues"}]: started.
+[2021-07-05T22:17:24.456Z] Set profile setting ["issues","github","filtersByRemoteName","boostchicken/udm-utilities"] to [{"id":"f22af242-a058-43d6-aa36-41048fc2b7ae","text":"state:open","name":"All Open Issues"}]: finished. gk-log://duration?t=6
+[2021-07-05T22:17:24.482Z] Set profile setting ["issues","github","filtersByRemoteName","boostchicken/udm-utilities"] to [{"id":"f22af242-a058-43d6-aa36-41048fc2b7ae","text":"state:open","name":"All Open Issues"},{"id":"3bfe4c66-ab67-41a4-8ac0-e03d3828996a","text":"assignee:marceldarvas state:open","name":"My Open Issues"}]: started.
+[2021-07-05T22:17:24.484Z] Set profile setting ["issues","github","filtersByRemoteName","boostchicken/udm-utilities"] to [{"id":"f22af242-a058-43d6-aa36-41048fc2b7ae","text":"state:open","name":"All Open Issues"},{"id":"3bfe4c66-ab67-41a4-8ac0-e03d3828996a","text":"assignee:marceldarvas state:open","name":"My Open Issues"}]: finished. gk-log://duration?t=2

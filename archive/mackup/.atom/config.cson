@@ -1,0 +1,14 @@
+"*":
+  "atom-package-deps":
+    ignored: [
+      "linter-ui-default"
+    ]
+  core:
+    disabledPackages: [
+      "iam-syntax"
+    ]
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "3ee21e85-60b6-40c7-90a7-968ef021af27"
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,44 @@
+{
+  "tabInfo": {
+    "tabs": [
+      {
+        "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+        "type": "REPO",
+        "repoName": "unifi",
+        "repoPath": "/Users/marcel/Development/Homelab/unifi/"
+      }
+    ],
+    "selectedTabId": "9974f240-66d2-4433-a1ae-ac733f4644d3"
+  },
+  "profileIcon": "gravatar",
+  "profileName": "Personal",
+  "userEmail": "hello@marceldarvas.com",
+  "userName": "Marcel Darvas",
+  "gpg": {
+    "gpgProgram": null,
+    "userSigningKey": null,
+    "commitGpgSign": false,
+    "tagForceSignAnnotated": false
+  },
+  "editor": {
+    "fontFamily": "Monaco"
+  },
+  "issues": {
+    "github": {
+      "filtersByRemoteName": {
+        "boostchicken/udm-utilities": [
+          {
+            "id": "f22af242-a058-43d6-aa36-41048fc2b7ae",
+            "text": "state:open",
+            "name": "All Open Issues"
+          },
+          {
+            "id": "3bfe4c66-ab67-41a4-8ac0-e03d3828996a",
+            "text": "assignee:marceldarvas state:open",
+            "name": "My Open Issues"
+          }
+        ]
+      }
+    }
+  }
+}

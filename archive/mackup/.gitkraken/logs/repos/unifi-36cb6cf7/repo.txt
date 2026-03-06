@@ -1,0 +1,31 @@
+[2021-07-05T22:15:58.737Z] Fetch remote keybase: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:16:54.456Z] Fetch remote keybase: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:17:08.174Z] Fetch remote keybase: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:17:24.404Z] Set GitHub issues remote to boostchicken/udm-utilities: started.
+[2021-07-05T22:17:24.449Z] Set GitHub issues remote to boostchicken/udm-utilities: finished. gk-log://duration?t=45
+[2021-07-05T22:17:24.674Z] Refresh github issues: started.
+[2021-07-05T22:17:24.883Z] Refresh github issues: finished. gk-log://duration?t=209
+[2021-07-05T22:17:53.577Z] Pull main: started.
+[2021-07-05T22:17:53.583Z] Fetch remote keybase: started
+[2021-07-05T22:17:53.601Z] Fetch remote keybase: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:17:53.610Z] Fetch remote keybase: finished with errors. gk-log://duration?t=27
+[2021-07-05T22:17:53.611Z] Pull main: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:17:53.612Z] Pull main: finished with errors. gk-log://duration?t=35
+[2021-07-05T22:18:07.832Z] Fetch remote keybase: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:18:12.183Z] Fetch remote origin: started
+[2021-07-05T22:18:12.624Z] Fetch remote origin: finished gk-log://duration?t=441
+[2021-07-05T22:18:20.741Z] Checkout refs/remotes/origin/master: started.
+[2021-07-05T22:18:20.758Z] Create ref refs/heads/master at 4e4d86ffe5a4e2d12ab8c85064672fe5a2f9e481: started.
+[2021-07-05T22:18:20.880Z] Create ref refs/heads/master at 4e4d86ffe5a4e2d12ab8c85064672fe5a2f9e481: finished. gk-log://duration?t=122
+[2021-07-05T22:18:22.316Z] Checkout refs/remotes/origin/master: finished. gk-log://duration?t=1575
+[2021-07-05T22:18:51.795Z] Undo Checkout from "main" to "master": started.
+[2021-07-05T22:18:51.852Z] Undo Checkout from "main" to "master": finished. gk-log://duration?t=57
+[2021-07-05T22:19:01.265Z] Undo Action with reflog message "pull --progress keybase master: Fast-forward": started.
+[2021-07-05T22:19:01.274Z] Undo Action with reflog message "pull --progress keybase master: Fast-forward": finished. gk-log://duration?t=9
+[2021-07-05T22:19:07.847Z] Fetch remote keybase: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:19:48.013Z] Pull main: started.
+[2021-07-05T22:19:48.019Z] Fetch remote keybase: started
+[2021-07-05T22:19:48.036Z] Fetch remote keybase: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:19:48.042Z] Fetch remote keybase: finished with errors. gk-log://duration?t=23
+[2021-07-05T22:19:48.043Z] Pull main: failed to resolve address for keybase: nodename nor servname provided, or not known
+[2021-07-05T22:19:48.044Z] Pull main: finished with errors. gk-log://duration?t=31

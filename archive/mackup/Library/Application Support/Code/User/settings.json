@@ -1,0 +1,70 @@
+{
+    "stylelint.syntax": "css",
+    "remote.SSH.configFile": "/Users/marcel/.ssh/config",
+    "sftp.debug": true,
+    "workbench.iconTheme": "vscode-simpler-icons",
+    "phpcs.composerJsonPath": "/Users/marcel/utilities/composer.json",
+    "phpcs.executablePath": "/Users/marcel/utilities/PHPCompatibility/composer.json",
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "phpcs.autoConfigSearch": false,
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "phpmd.rules": "cleancode,codesize,controversial,design,unusedcode,naming, allow-underscore",
+    "php-cs-fixer.lastDownload": 1619217414135,
+    "l13Diff.confirmCopy": false,
+    "yaml.schemas": {
+        "file:///Users/marcel/.vscode/extensions/atlassian.atlascode-3.0.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.jqlList": [
+        {
+            "id": "6314a3a7-d10b-4307-bb2a-85ffa0744f94",
+            "enabled": true,
+            "name": "W&W Open Bugs",
+            "query": "project = WW AND issuetype in (Bug, \"Change Request\", Incident, \"Service request\", \"User Problem\", \"Small Bug\") AND status in (Open, Pending, \"Work in progress\") ORDER BY created DESC",
+            "siteId": "caa0bcd3-3d72-4f43-b86a-2410a69491b2",
+            "monitor": true
+        }
+    ],
+    "atlascode.jira.enabled": true,
+    "workbench.colorTheme": "Electron",
+    "sshfs.configs": [
+
+    
+    ],
+    "phpcs.standard": "WordPress",
+    "redhat.telemetry.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressImproperWorkspaceCasingWarning": true
+    },
+    "git.enableSmartCommit": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.accessibilitySupport": "off",
+    "files.autoSave": "afterDelay",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "settingsSync.ignoredExtensions": [
+
+    ],
+    "sshfs.configpaths": [
+
+    ],
+    "git.autofetch": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "git.confirmSync": false,
+    "codestream.serverUrl": "https://api.codestream.com",
+}

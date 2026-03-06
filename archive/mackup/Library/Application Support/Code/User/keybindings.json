@@ -1,0 +1,21 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+u",
+        "command": "sftp.upload.activeFile"
+    },
+    {
+        "key": "ctrl+c ctrl+s",
+        "command": "beautify.format"
+    },
+    {
+        "key": "shift+alt+p",
+        "command": "markdown.showPreview",
+        "when": "!notebookEditorFocused && editorLangId == 'markdown'"
+    },
+    {
+        "key": "shift+cmd+v",
+        "command": "-markdown.showPreview",
+        "when": "!notebookEditorFocused && editorLangId == 'markdown'"
+    }
+]

@@ -1,0 +1,143 @@
+{
+  "versionUUID" : "670A137E-30BA-4890-8AF8-0AB0D705F0F2",
+  "modificationDate" : "2023-02-13T01:21:36.685000",
+  "versionHash" : "2C2JT+Yupdq30TM4Zs+x9IPqQ9k+J8q\/u0qrDHDsShAiXgbUVhd0BrW1Ak6IEa+T",
+  "favorites" : [
+    {
+      "attributes" : {
+        "Name" : "Favorites"
+      },
+      "childItems" : [
+        {
+          "attributes" : {
+            "Path" : "\/Users\/marcel\/Library\/Mobile Documents\/com~apple~CloudDocs"
+          },
+          "type" : "Local",
+          "UUID" : "59286347-BCD2-4B1F-8B46-68CD51FC6331"
+        },
+        {
+          "UUID" : "AC53E5B8-E476-460E-AC04-C1D61C67A62B",
+          "type" : "Local",
+          "attributes" : {
+            "Path" : "\/Applications"
+          }
+        },
+        {
+          "UUID" : "18348374-2544-409B-950A-06EE7124737A",
+          "attributes" : {
+            "Path" : "~\/Desktop"
+          },
+          "type" : "Local"
+        },
+        {
+          "UUID" : "EB9F8987-6772-40BC-BC9F-45C7F6943309",
+          "type" : "Local",
+          "attributes" : {
+            "Path" : "~\/Documents"
+          }
+        },
+        {
+          "type" : "Local",
+          "UUID" : "556683C4-0B09-4DFC-84D4-78D7B6438674",
+          "attributes" : {
+            "Path" : "~\/Downloads"
+          }
+        },
+        {
+          "attributes" : {
+            "Path" : "~\/Pictures"
+          },
+          "type" : "Local",
+          "UUID" : "EB56D531-EB84-4285-B81E-C37B30EFFF28"
+        }
+      ],
+      "type" : "Group",
+      "UUID" : "5910EE05-0A27-49F9-983B-77314FC033C9"
+    },
+    {
+      "UUID" : "E7E6E188-5E4A-470A-8CB0-4DA38980AF2F",
+      "attributes" : {
+        "Name" : "Work"
+      },
+      "type" : "Group",
+      "childItems" : [
+        {
+          "type" : "Local",
+          "modificationDate" : "2022-12-06T20:23:47.014000",
+          "UUID" : "64E48214-38CA-450B-82C0-20B1E43BFB48",
+          "attributes" : {
+            "Path" : "\/Users\/marcel\/Library\/Mobile Documents\/com~apple~CloudDocs\/Projects\/Clients",
+            "OtherPath" : "\/Users\/marcel\/Library\/Mobile Documents\/com~apple~CloudDocs\/Projects\/Clients",
+            "AskPassword" : false,
+            "TextEndcoding" : 4,
+            "Name" : "Clients"
+          }
+        },
+        {
+          "attributes" : {
+            "Name" : "WOOWW Cars - Dev Server",
+            "Path" : "\/srv\/users\/wow\/apps\/wooww-cars\/public",
+            "password" : "kGnGGnywUuXCB5nSoE4TwajY\/DgJHAWvmnL3mT9L03A=",
+            "BaseURL" : "https:\/\/woowwcars.hu\/",
+            "TextEndcoding" : 4,
+            "AskPassword" : false,
+            "Server" : "139.162.189.190",
+            "Username" : "wow"
+          },
+          "modificationDate" : "2019-05-20T03:49:00.271000",
+          "type" : "SFTP",
+          "UUID" : "5E4EDB03-A113-468C-B5F6-CF219D53B6DD"
+        },
+        {
+          "UUID" : "D0DB69A7-7C17-4344-A34B-56ABCA0B4C04",
+          "modificationDate" : "2023-02-13T01:21:36.676000",
+          "type" : "Sync",
+          "attributes" : {
+            "SyncMode" : 2,
+            "Name" : "WP Plugins",
+            "AddItems" : true,
+            "UpdateItems" : true,
+            "TimeOffsetCorrection" : false,
+            "RightIgnoredPaths" : [
+
+            ],
+            "LeftFavorite" : {
+              "Attributes" : {
+                "Path" : "\/Volumes\/Work\/WordPress Plugins"
+              },
+              "Type" : "Local",
+              "UUID" : "CEF1BCD5-437A-408F-9D6A-5190EB57A3BD"
+            },
+            "FilterItems" : false,
+            "TimeOffset" : 0,
+            "SyncSubfolders" : true,
+            "Predicate" : "YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGvEBYLDBMYICorLjU5Pj9CRkpPUFNbX2NlVSRudWxs0w0ODxAREl8QF05TQ29tcG91bmRQcmVkaWNhdGVUeXBlXxAPTlNTdWJwcmVkaWNhdGVzViRjbGFzcxACgAKAFdIUDxUXWk5TLm9iamVjdHOhFoADgBTUDxkaGxwdHh9fEBFOU1JpZ2h0RXhwcmVzc2lvbl8QEE5TTGVmdEV4cHJlc3Npb25fEBNOU1ByZWRpY2F0ZU9wZXJhdG9ygBOADoAEgBHVISIjJA8lJicoKVlOU09wZXJhbmReTlNTZWxlY3Rvck5hbWVfEBBOU0V4cHJlc3Npb25UeXBlW05TQXJndW1lbnRzgAaABRADgAiADVx2YWx1ZUZvcktleTrSIw8sLRABgAfSLzAxMlokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNTZWxmRXhwcmVzc2lvbqMxMzRcTlNFeHByZXNzaW9uWE5TT2JqZWN00hQPNjihN4AJgAzTDyM6Ozw9WU5TS2V5UGF0aIALEAqAClRuYW1l0i8wQEFfEBxOU0tleVBhdGhTcGVjaWZpZXJFeHByZXNzaW9uo0AzNNIvMENEXk5TTXV0YWJsZUFycmF5o0NFNFdOU0FycmF50i8wR0hfEBNOU0tleVBhdGhFeHByZXNzaW9upEdJMzRfEBROU0Z1bmN0aW9uRXhwcmVzc2lvbtNLIw9MTU5fEA9OU0NvbnN0YW50VmFsdWWADxAAgBBXTElDRU5TRdIvMFFSXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNRMzTVD1RVVldYTVknWlpOU01vZGlmaWVyWE5TTmVnYXRlWU5TT3B0aW9uc15OU09wZXJhdG9yVHlwZYASCBAE0i8wXF1fEBtOU0VxdWFsaXR5UHJlZGljYXRlT3BlcmF0b3KjXF40XxATTlNQcmVkaWNhdGVPcGVyYXRvctIvMGBhXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo2BiNFtOU1ByZWRpY2F0ZdIvMEVkokU00i8wZmdfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2ZiNAAIABEAGgAkACkAMgA3AEkATABRAFMAbAByAHkAkwClAKwArgCwALIAtwDCAMQAxgDIANEA5QD4AQ4BEAESARQBFgEhASsBOgFNAVkBWwFdAV8BYQFjAXABdQF3AXkBfgGJAZIBpQGpAbYBvwHEAcYByAHKAdEB2wHdAd8B4QHmAesCCgIOAhMCIgImAi4CMwJJAk4CZQJsAn4CgAKCAoQCjAKRAq0CsQK8AscC0ALaAukC6wLsAu4C8wMRAxUDKwMwA0gDTANYA10DYANlA3sAAAAAAAACAQAAAAAAAABoAAAAAAAAAAAAAAAAAAADfw==",
+            "DeleteOrphanedItems" : false,
+            "SyncHiddenItems" : false,
+            "RightFavorite" : {
+              "Type" : "Local",
+              "Attributes" : {
+                "Path" : "\/Users\/marcel\/Developer\/WordPress\/WordPress Plugins"
+              },
+              "UUID" : "E7D75509-0C2D-43DA-BAC8-1B2CEAE8690D"
+            },
+            "LeftIgnoredPaths" : [
+
+            ],
+            "TimeOffsetDirection" : 0,
+            "UpdateMode" : 0
+          }
+        }
+      ],
+      "modificationDate" : "2022-12-06T20:23:44.719000"
+    },
+    {
+      "UUID" : "C85CA7BE-C176-464D-A8F8-2440B21CDFF0",
+      "modificationDate" : "2022-12-06T22:52:17.022000",
+      "type" : "Group",
+      "attributes" : {
+        "Name" : "Kiron"
+      }
+    }
+  ]
+}

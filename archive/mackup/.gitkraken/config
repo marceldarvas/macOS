@@ -1,0 +1,72 @@
+{
+  "lastUpgradeScriptRun": "v7.5.0",
+  "appId": "e121322c35588de31a3ec0923b5261b41c8a562b",
+  "lastVersion": "7.6.1",
+  "lastReleaseNotesDisplayed": "7.6.1",
+  "registration": {
+    "email": "hello@marceldarvas.com",
+    "name": "Marcel Darvas",
+    "status": "activated",
+    "loginType": "github",
+    "date": "2021-07-05T22:15:04.031Z",
+    "EULA": {
+      "version": "7.5.0",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "68e2fef6-5251-4075-b6cd-5a779043796d",
+  "licensedFeatures": [
+    "pro",
+    "timelines:pro",
+    "suite:pro",
+    "boards:pro",
+    "trial",
+    "timelines:trial",
+    "suite:trial",
+    "boards:trial"
+  ],
+  "userFeatures": [
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "glo"
+    },
+    {
+      "name": "timelines"
+    }
+  ],
+  "hasSeenNewUserOnboarding": true,
+  "fuzzyFinderMetadata": {
+    "itemMetadata": {
+      "OPEN_REPO": {
+        "openRepo-/Users/marcel/Development/Homelab/unifi": {
+          "id": "openRepo-/Users/marcel/Development/Homelab/unifi",
+          "timestamps": [
+            1625523354221
+          ],
+          "total": 1
+        }
+      }
+    }
+  },
+  "windowSettings": {
+    "x": 1370,
+    "y": 570,
+    "width": 1251,
+    "height": 800,
+    "fullScreen": false,
+    "maximized": true
+  },
+  "commits": {
+    "maxCommitsInGraph": 2000
+  },
+  "notification": {
+    "settings": {
+      "local": {
+        "showDesktopNotifications": true
+      }
+    }
+  },
+  "hasSeenTrialStartedModal": true
+}
